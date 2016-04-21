@@ -9,9 +9,9 @@
 # Tags:             Genomics
 # Provides:         fastxtoolkit 0.1.14
 # Base Image:       biodckr/biodocker
-# Build Cmd:        docker build biodckr/fastxtoolkit 0.1.14/.
-# Pull Cmd:         docker pull biodckr/fastxtoolkit 0.1.14
-# Run Cmd:          docker run biodckr/fastoxtoolkit fastxtoolkit
+# Build Cmd:        docker build -t tareasbioinfinvrepro2016-ii/fastxtoolkit 0.1.14/.
+# Pull Cmd:         docker pull tareasbioinfinvrepro2016-ii/fastxtoolkit 0.1.14
+# Run Cmd:          docker run -it tareasbioinfinvrepro2016-ii/fastoxtoolkit fastxtoolkit
 #################################################################
 
 # Set the base image to Ubuntu
