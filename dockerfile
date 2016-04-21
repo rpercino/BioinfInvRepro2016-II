@@ -2,16 +2,16 @@
 # Dockerfile 
 #
 # Version: 			1
-# Software: 		FASTXToolkit
+# Software: 		fastxt_toolkit
 # Softare Version: 	0.0.14
 # Description:      A set of tools written in bash and C++ for working with Fastxtoolkit files
 # Website:          https://hannonlab.cshl.edu/fastx_toolkit/
 # Tags:             Genomics
-# Provides:         fastxtoolkit 0.1.14
+# Provides:         fastx_toolkit 0.0.14
 # Base Image:       biodckr/biodocker
-# Build Cmd:        docker build -t tareasbioinfinvrepro2016-ii/fastxtoolkit 0.1.14/.
-# Pull Cmd:         docker pull tareasbioinfinvrepro2016-ii/fastxtoolkit 0.1.14
-# Run Cmd:          docker run -it tareasbioinfinvrepro2016-ii/fastoxtoolkit fastxtoolkit
+# Build Cmd:        docker build -t tareasbioinfinvrepro2016-ii/fastx_toolkit 0.0.14/.
+# Pull Cmd:         docker pull tareasbioinfinvrepro2016-ii/fastx_toolkit-0.0.14
+# Run Cmd:          docker run -it tareasbioinfinvrepro2016-ii/fastox_toolkit fastx_toolkit-0.0.14
 #################################################################
 
 # Set the base image to Ubuntu
